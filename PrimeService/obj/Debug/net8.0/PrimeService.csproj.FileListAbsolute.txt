@@ -1,0 +1,12 @@
+/Users/expdemian/study.ossca/homework_2/unit-testing-using-dotnet-test/PrimeService/bin/Debug/net8.0/PrimeService.deps.json
+/Users/expdemian/study.ossca/homework_2/unit-testing-using-dotnet-test/PrimeService/bin/Debug/net8.0/PrimeService.dll
+/Users/expdemian/study.ossca/homework_2/unit-testing-using-dotnet-test/PrimeService/bin/Debug/net8.0/PrimeService.pdb
+/Users/expdemian/study.ossca/homework_2/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/expdemian/study.ossca/homework_2/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/PrimeService.AssemblyInfoInputs.cache
+/Users/expdemian/study.ossca/homework_2/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/PrimeService.AssemblyInfo.cs
+/Users/expdemian/study.ossca/homework_2/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/PrimeService.csproj.CoreCompileInputs.cache
+/Users/expdemian/study.ossca/homework_2/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/PrimeService.sourcelink.json
+/Users/expdemian/study.ossca/homework_2/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/PrimeService.dll
+/Users/expdemian/study.ossca/homework_2/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/refint/PrimeService.dll
+/Users/expdemian/study.ossca/homework_2/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/PrimeService.pdb
+/Users/expdemian/study.ossca/homework_2/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/ref/PrimeService.dll
